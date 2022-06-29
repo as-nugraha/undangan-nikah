@@ -1,4 +1,4 @@
-# mywedding
+# undangan-nikah
 
 ## Project setup
 ```
